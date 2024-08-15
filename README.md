@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/MViniciusCoffe"></a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MViniciusCoffe&show_icons=true&theme=dracula&show=reviews&locale=pt-br&text_color=FFFFFF">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MViniciusCoffe&theme=tokyonight&layout=donut&text_color=FFFFFF">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MViniciusCoffe&theme=dracula&layout=donut&text_color=FFFFFF">
 </div>
 <br>
 - 🔭 Atualmente Trabalhando na Brazil Paraiba Mine <br>
