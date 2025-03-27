@@ -7,7 +7,7 @@
 </div>
 <br>
 - 🔭 Atualmente Trabalhando na Brazil Paraiba Mine <br>
-- 🌱 Atualmente cursando Informática no IFRN - Parelhas
+- 🌱 Atualmente cursando Bacharelado em Sistemas de Informação
 
 <div style="display: inline_lock"><br>
   <img align="center" alt="mv-py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> - 
