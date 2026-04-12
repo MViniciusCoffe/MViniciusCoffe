@@ -9,7 +9,7 @@
 ## Sobre Mim
 
 - 🌱 **Estudando:** Bacharelado em Sistemas de Informação
-- 👨‍ **Focado em:** Desenvolvimento Web e Mobile
+- 👨 **Focado em:** Desenvolvimento Web e Mobile
 - 📍 **Localização:** Brasil
 
 ---
