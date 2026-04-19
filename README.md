@@ -1,7 +1,11 @@
 ## Olá! bem vindo ao github de Marcus Vinícius:
 
 <div align="center">
-  <img src="./assets/metrics.svg" alt="Minhas Estatísticas" />
+  <img src="./assets/metrics-base.svg" alt="Perfil e Atividade" width="100%" />
+  <br><br>
+  <img src="./assets/metrics-languages.svg" alt="Linguagens" width="100%" />
+  <br><br>
+  <img src="./assets/metrics-contributions.svg" alt="Contribuições" width="100%" />
 </div>
 
 ---
