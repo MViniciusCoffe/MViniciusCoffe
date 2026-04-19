@@ -1,12 +1,19 @@
-## Olá! bem vindo ao github de Marcus Vinícius:
+# Olá! bem vindo ao github de Marcus Vinícius:
 
-<div align="center">
-  <img src="./assets/metrics-base.svg" alt="Perfil e Atividade" width="100%" />
-  <br><br>
-  <img src="./assets/metrics-languages.svg" alt="Linguagens" width="100%" />
-  <br><br>
-  <img src="./assets/metrics-contributions.svg" alt="Contribuições" width="100%" />
-</div>
+--- 
+## Métricas
+
+<img src="./assets/metrics-base.svg" alt="Perfil e Atividade" width="100%" />
+
+---
+## Linguagens
+
+<img src="./assets/metrics-languages.svg" alt="Linguagens" width="100%" />
+
+---
+## Commits
+
+<img src="./assets/metrics-contributions.svg" alt="Contribuições" width="100%" />
 
 ---
 
@@ -32,7 +39,7 @@
 
 ## Outras Redes
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.linkedin.com/in/devmarquinhos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
