@@ -1,3 +1,4 @@
+# FORCED REFRESH $(date)
 name: Metrics Languages
 
 on:
@@ -26,5 +27,4 @@ jobs:
           plugin_languages_threshold: 0%
 
           config_display: large
-          config_theme: dark
           config_padding: 0, 8 + 11%, 0 + 11%

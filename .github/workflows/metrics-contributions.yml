@@ -1,3 +1,4 @@
+# FORCED REFRESH $(date)
 name: Metrics Contributions
 
 on:
@@ -24,6 +25,4 @@ jobs:
           plugin_lines_sections: total
 
           config_display: large
-          config_theme: dark
           config_padding: 0, 8 + 11%, 0 + 11%
-          

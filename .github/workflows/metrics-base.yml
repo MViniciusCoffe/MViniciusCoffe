@@ -1,3 +1,4 @@
+# FORCED REFRESH $(date)
 name: Metrics Base
 
 on:
@@ -19,7 +20,6 @@ jobs:
           filename: assets/metrics-base.svg
 
           base: header, activity, community, repositories, metadata
-          
+
           config_display: large
-          config_theme: dark
           config_padding: 0, 8 + 11%, 0 + 11%
