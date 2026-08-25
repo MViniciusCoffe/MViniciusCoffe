@@ -22,7 +22,7 @@
 
 🎯 Buscando oportunidades em engenharia de software com **impacto real**.
 
-📍 Parelhas, RN | 🌐 Inglês Avançado (C2)
+📍 Parelhas, RN | 🌐 Inglês Intermediário (B2)
 
 ---
 
@@ -86,7 +86,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devmarquinhos)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcusvinicius.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infobasicifrn2017marcusv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MViniciusCoffe)
 
 </div>
