@@ -72,6 +72,7 @@
 | Projeto | Stack | Link |
 |---------|-------|------|
 | **GameOutpost** | Next.js, React, Node.js, Jest | [🌐 Deploy](https://gameoutpost.com.br) |
+| **Site Institucional BPM** | PHP, HTML/CSS, SASS, JS | [🌐 Deploy](https://brazilparaibamine.com) |
 | **SpendSmart** | React, Node.js, PostgreSQL, AWS | [🌐 Deploy](https://spend-smart-lilac.vercel.app) |
 | **Ativamente** | Django REST, PostgreSQL, Flutter | [📱 Em desenvolvimento](https://github.com/MViniciusCoffe) |
 | **Mellodica** | Flutter, Dart | [📱 App Mobile](https://github.com/MViniciusCoffe/Mellodica) |
