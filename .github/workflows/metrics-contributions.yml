@@ -23,7 +23,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-history
           plugin_lines: yes
-          plugin_lines_sections: total
+          plugin_lines_sections: repositories, history
 
           config_display: large
           config_padding: 0, 8 + 11%, 0 + 11%
